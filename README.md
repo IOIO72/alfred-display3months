@@ -10,7 +10,7 @@ This workflow is an update to the workflow [Display Month Calendar by Mohamed At
 
 Just use the Alfred keyword `cal` and you get the previous, current and next months calendar which contains the week of the year numbers and the current date and time.
 
-![Display 3 Months Calendar](./Display 3 Months Calendar.png)
+![Display 3 Months Calendar](https://raw.githubusercontent.com/IOIO72/alfred-display3months/main/Display%203%20Months%20Calendar.png)
 
 ## License
 
